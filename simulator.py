@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk  #tkinter library used for making gui to understand the Assembly language program easily
 from tkinter import filedialog, scrolledtext, ttk, messagebox
 from interpreter import Command, Register, Interpreter
 
